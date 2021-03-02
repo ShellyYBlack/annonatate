@@ -1,0 +1,5 @@
+---
+canvas: "https://iiif.lib.harvard.edu/manifests/drs:440747568/canvas/canvas-440747578.json"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "This looks like a pot pie.", "purpose": "commenting", "created": "2021-03-02T21:14:41.203Z", "creator": {"id": "ShellyYBlack", "name": "ShellyYBlack"}, "modified": "2021-03-02T21:14:45.306Z"}, {"type": "TextualBody", "value": "Food", "purpose": "tagging", "created": "2021-03-02T21:14:47.363Z", "creator": {"id": "ShellyYBlack", "name": "ShellyYBlack"}, "modified": "2021-03-02T21:14:47.925Z"}], "target": {"source": "https://iiif.lib.harvard.edu/manifests/drs:440747568/canvas/canvas-440747578.json", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:1230.652099609375,2301.863525390625,848.914306640625,401.13525390625"}, "dcterms:isPartOf": {"id": "https://iiif.lib.harvard.edu/manifests/drs:440747568", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/4655e5d0-4705-4ba7-a2ad-b6fa65794f4f.json"}
