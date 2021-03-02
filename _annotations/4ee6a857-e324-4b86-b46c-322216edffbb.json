@@ -1,0 +1,5 @@
+---
+canvas: "https://iiif.lib.harvard.edu/manifests/ids:20418295/canvas/canvas-20418295.json"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "Falling mouse", "purpose": "describing", "created": "2021-03-02T21:08:14.919Z", "creator": {"id": "ShellyYBlack", "name": "ShellyYBlack"}, "modified": "2021-03-02T21:08:25.718Z"}, {"type": "TextualBody", "value": "Mouse", "purpose": "tagging", "created": "2021-03-02T21:08:20.349Z", "creator": {"id": "ShellyYBlack", "name": "ShellyYBlack"}, "modified": "2021-03-02T21:08:20.819Z"}], "target": {"source": "https://iiif.lib.harvard.edu/manifests/ids:20418295/canvas/canvas-20418295.json", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:12.745329856872559,534.2053833007812,125.76472568511963,140.50274658203125"}, "dcterms:isPartOf": {"id": "https://iiif.lib.harvard.edu/manifests/ids:20418295", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/4ee6a857-e324-4b86-b46c-322216edffbb.json"}
