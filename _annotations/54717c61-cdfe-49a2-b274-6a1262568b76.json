@@ -1,0 +1,5 @@
+---
+canvas: "https://iiif.lib.harvard.edu/manifests/ids:20418295/canvas/canvas-20418295.json"
+order: 2
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "Black cat with green eyes", "purpose": "commenting", "created": "2021-03-02T21:08:48.425Z", "creator": {"id": "ShellyYBlack", "name": "ShellyYBlack"}, "modified": "2021-03-02T21:08:51.228Z"}, {"type": "TextualBody", "value": "Cat", "purpose": "tagging", "created": "2021-03-02T21:08:53.122Z", "creator": {"id": "ShellyYBlack", "name": "ShellyYBlack"}, "modified": "2021-03-02T21:08:53.816Z"}], "target": {"source": "https://iiif.lib.harvard.edu/manifests/ids:20418295/canvas/canvas-20418295.json", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:355.6507263183594,35.07658004760742,318.3419494628906,400.8750801086426"}, "dcterms:isPartOf": {"id": "https://iiif.lib.harvard.edu/manifests/ids:20418295", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/54717c61-cdfe-49a2-b274-6a1262568b76.json"}
